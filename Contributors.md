@@ -106,6 +106,7 @@ Swapnonil Mitra
 - [Harshavardhan K](https://github.com/tronbeing3030) **7/28/24 #LFG**
 -[Matthew H] **25/07/2024**
 Rudraksh Upadhyay- learing to contribute in open source projects
+-[Rudra](https://github.com/rudra0000)
 -[Prabhat Ghimire] **grinding my way**
 -[Ayman Badouzi](https://github.com/itzAymvn)
 -[Frank Costanza](https://github.com/wrx777)**My first contribution**
